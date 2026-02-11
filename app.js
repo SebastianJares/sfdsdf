@@ -612,3 +612,4 @@
   const saved = localStorage.getItem("lang");
   applyLang(saved === "en" ? "en" : "cs");
 })();
+
